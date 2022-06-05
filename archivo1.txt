@@ -1,1 +1,2 @@
- Este es el archivo 1
+ Este es el archivo 1, tiene información.
+ También, tiene mas líneas. 
