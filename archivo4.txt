@@ -1,1 +1,30 @@
 Acá debería de poner algunos apuntes....
+
+Inicialmente se debe abrir el bash de git, luego se digitan los 
+siguientes comandos
+
+pwd : sirve para conocer la ubicación del directorio en donde 
+uno se encuentra. 
+
+cd : sirve para ir cambiando de directorio, se pueden digitar las 
+primeras letras e ir autorellenando con la tecla TAB.  
+
+ls : sirve para conocer los archivos que se encuentran en el directorio.
+
+code . : sirve para ejecutar el editor de código configurado por defecto.
+
+git init : crea un nuevo repositorio. 
+
+git status : muestra el estado del repoositorio. 
+
+git add "nombre del archivo" : Sirve para añadir los cambios de 
+un archivo en el repositorio. 
+
+git commit -m "Explicación del commit" : se añade el cambio guardado con 
+antelación en el repositorio y este queda registrado en el mismo. 
+
+git log: sirve para mostrar todos los cambios (commit) que se han hecho en 
+el repositorio, así como el autor, correo, hora y fecha. 
+
+git log --oneline : similar al comando anterior, pero muestra el historial de 
+commits de una manera un poco mas resumidas. 
