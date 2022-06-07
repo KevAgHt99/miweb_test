@@ -29,5 +29,3 @@ el repositorio, así como el autor, correo, hora y fecha.
 git log --oneline : similar al comando anterior, pero muestra el historial de 
 commits de una manera un poco mas resumidas. 
 
-git checkout -"nombre de la rama" : sirve para intercambiarse entre ramas de un repositorio. 
-
